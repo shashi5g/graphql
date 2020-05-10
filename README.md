@@ -1,4 +1,4 @@
-# graphql using graphql express
+# graphql implementation using graphql express
 
 
  Graphql with example of  Quary and Mutation
