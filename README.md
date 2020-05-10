@@ -3,8 +3,7 @@
 
  Graphql with example of  Quary and Mutation
  
-  clone
-  npm install
+  clone and  run npm install
   
   run server  using ccommand -- node server.js
   
