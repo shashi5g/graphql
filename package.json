@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/shashi5g/graphql#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
